@@ -78,9 +78,12 @@ After you've inited your progress circle, there are a few functions of interest 
 function | parameter | description
 ------------- | ------------- | -------------
 start() | *none* | Starts animation.
-set() | float | Sets the direct value of the progres circle between ```[0,1]```.
+set() | float | Sets the direct value of the progres circle between `[0,1]`.
 reset() | *none* | Resets the display and instance values of the progress circle.
 
+## Updated:
+- Wrapped in module definition, so we can use `requirejs` or link include.
+- Added `bower.json`, added to bower repo.
 
 ##License
 The MIT License (MIT)
