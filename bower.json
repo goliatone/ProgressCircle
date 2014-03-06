@@ -1,0 +1,22 @@
+{
+  "name": "ProgressCircle",
+  "main": "ProgressCircle.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/goliatone/ProgressCircle",
+  "authors": [
+    "crossproduct <crossproduct@gmail.com>",
+    "goliatone <hello@goliatone.com>"
+  ],
+  "description": "ProgressCircle makes generating circular [SVG] progress meters in your HTML easy without relying on extra frameworks.",
+  "keywords": [
+    "SVG"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
