@@ -1,6 +1,6 @@
 {
   "name": "ProgressCircle",
-  "main": "ProgressCircle.js",
+  "main": "progresscircle.js",
   "version": "0.1.0",
   "homepage": "https://github.com/goliatone/ProgressCircle",
   "authors": [
